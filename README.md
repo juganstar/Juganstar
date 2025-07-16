@@ -9,7 +9,7 @@ Currently working on **ResQSignal**, an emergency alert platform built with Djan
 
 - **Backend:** Django, Django REST Framework, PostgreSQL  
 - **Frontend:** React, Tailwind CSS  
-- **Auth:** JWT, Allauth  
+- **Auth:** JWT, Allauth, Oauth2  
 - **Infrastructure:** Docker, Render, Netlify  
 - **Integrations:** Stripe (billing), Twilio (SMS), SendGrid (email)
 
